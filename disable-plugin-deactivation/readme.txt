@@ -2,8 +2,8 @@
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Disable Plugin Deactivation, plugin notification disable, remove plugin notification, wordpress disable plugin update, disable plugin edit, remove plugin update, plugin notification remove wordpress, wordpress plugin update, plugin edit, plugin delete, plugin activate, plugin deactivate, plugin update disable, plugin edit disable, plugin delete disable, plugin activate disable, plugin deactivate disable.
 Requires at least: 3.0.1
-Tested up to: 4.5.2
-Stable tag: 4.5
+Tested up to: 4.9.8
+Stable tag: 4.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
