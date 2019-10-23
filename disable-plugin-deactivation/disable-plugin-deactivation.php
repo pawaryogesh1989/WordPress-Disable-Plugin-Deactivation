@@ -1,15 +1,11 @@
 <?php
-
-/**
- * @package Disable Plugin Deactivation
- */
 /*
   Plugin Name: Disable Plugin Deactivation
-  Plugin URI: http://www.clariontechnologies.co.in
+  Plugin URI: http://www.clariontech.com
   Description: Disable Plugin Deactivation
-  Version: 1.0.0
+  Version: 2.1.0
   Author: Yogesh Pawar, Clarion Technologies
-  Author URI: http://www.clariontechnologies.co.in
+  Author URI: http://www.clariontech.com
   License: GPLv2 or later
   Text Domain: Disable Plugin Deactivation
  */
@@ -20,7 +16,4 @@ defined('ABSPATH') or die('Restricted direct access!');
 if (!class_exists('Disable_Plugin_Deactivation')) {
     require_once 'classes/class.plugin.deactivation.php';
 }
-
-//Initialising Class Plugin
-new Disable_Plugin_Deactivation();
 ?>

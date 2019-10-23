@@ -1,13 +1,14 @@
 === Disable Plugin Deactivation ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
-Tags: Disable Plugin Deactivation, plugin notification disable, remove plugin notification, wordpress disable plugin update, disable plugin edit, remove plugin update, plugin notification remove wordpress, wordpress plugin update, plugin edit, plugin delete, plugin activate, plugin deactivate, plugin update disable, plugin edit disable, plugin delete disable, plugin activate disable, plugin deactivate disable.
-Requires at least: 3.0.1
-Tested up to: 4.9.8
-Stable tag: 4.9
+Tags: disable plugin, plugin disable, remove plugin notification, wordpress disable plugin update, disable plugin edit, remove plugin update, plugin notification remove wordpress, wordpress plugin update, plugin edit, plugin delete, plugin activate, plugin deactivate, plugin update disable, plugin edit disable, plugin delete disable, plugin activate disable, plugin deactivate disable.
+Requires at least: 4.6 or higher
+Tested up to: 5.2.4
+Stable tag: 5.0
+PHP Version: 5.6 or higher
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use this plugin to disable plugin deactivation, activation, deletion, edit, and update. 
+Use this plugin to disable plugin deactivation, activation, deletion, edit, and update. The new version allows only super admin of the website to only modify the plugin settings. This will be helpful in multi network website where super admin can restrict normal admins from performing update, delete of a plugin through the plugin configuration.
 
 == Description ==
  
@@ -22,6 +23,29 @@ This plugin can be used to disable plugin deactivation, activation, deletion, ed
 * Option to disable plugin edit link.
 
 For more information please refer the screenshots.
+
+== Screenshots ==
+
+1. screenshot-1 - Plugin option to manage notifications.
+
+== Changelog ==
+
+= 2.1.0 =
+* Compatibility changes to make it work with latest WordPress version.
+* Code changes for PHP 7.2 version.
+
+= 2.0.0 =
+* The plugin configuration page can now only be access by super admin.
+* Super admin can now restrict admins from updating/deleting plugins in multi network installs.
+* Compatibility changes to make it work with latest WordPress version.
+* Code changes for PHP 7.2 version.
+
+= 1.0.0 =
+* Option to disable plugin activation.
+* Option to disable plugin deactivation.
+* Option to disable plugin update option.
+* Option to disable plugin delete option.
+* Option to disable plugin edit link.
 
 == Installation ==
 
@@ -51,3 +75,11 @@ No! there is no other plugin required.
 = Does this plugin require any special permissions? =
 
 No! This plugin does not require any special permissions or settings.
+
+= Can this plugin be used in multi network websites? =
+
+Yes, it can be used in multi network websites.
+
+= Can this plugin restrict other admins in network websites? =
+
+Yes, using this plugin the super admin can now restrict admins from updating/deleting plugins in multi network installs.
