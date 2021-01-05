@@ -3,7 +3,7 @@
   Plugin Name: Disable Plugin Deactivation
   Plugin URI: http://www.clariontech.com
   Description: Disable Plugin Deactivation
-  Version: 2.1.0
+  Version: 2.2.0
   Author: Yogesh Pawar, Clarion Technologies
   Author URI: http://www.clariontech.com
   License: GPLv2 or later

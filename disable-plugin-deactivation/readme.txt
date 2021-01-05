@@ -1,8 +1,8 @@
 === Disable Plugin Deactivation ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: disable plugin, plugin disable, remove plugin notification, wordpress disable plugin update, disable plugin edit, remove plugin update, plugin notification remove wordpress, wordpress plugin update, plugin edit, plugin delete, plugin activate, plugin deactivate, plugin update disable, plugin edit disable, plugin delete disable, plugin activate disable, plugin deactivate disable.
-Requires at least: 4.6 or higher
-Tested up to: 5.2.4
+Requires at least: 5.0 or higher
+Tested up to: 5.6
 Stable tag: 5.0
 PHP Version: 5.6 or higher
 License: GPLv2 or later
@@ -29,6 +29,9 @@ For more information please refer the screenshots.
 1. screenshot-1 - Plugin option to manage notifications.
 
 == Changelog ==
+
+= 2.2.0 =
+* Compatibility changes to make it work with latest WordPress version.
 
 = 2.1.0 =
 * Compatibility changes to make it work with latest WordPress version.
